@@ -24,7 +24,8 @@ Movie trailers embedded from YouTube
 User ratings and release information
 Genre tags and runtime details
 
-
+🚀 Live Demo
+View Live Demo (https://movie-database-app-rouge.vercel.app/)
 
 🔍 Search & Navigation
 
